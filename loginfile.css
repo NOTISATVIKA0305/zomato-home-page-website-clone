@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(236, 117, 157);
+}
+.card{
+    background-color: whitesmoke;
+    margin-top: 10%;
+    margin-left: 40%;
+    width: 330px;
+    height: 330px;
+    border-radius: 22px;
+    border: 3px solid black;
+    border-color: black;
+    text-align: center;
+}
+.user input{
+    margin-top: 20px;
+    border: none;
+    border-bottom: 2px solid gray;
+    font-size: 18px;
+    outline:none;
+    
+    
+}
+.forget{
+    margin-top: 20px;
+    font-size: 18px;
+    
+}
+.btn button{
+    width: 250px;
+    height: 40px;
+    background-color: rgb(236, 117, 157);
+    border: none;
+     margin-top: 20px ;
+     border-radius: 20px;
+     font-size: 18px;
+     color: beige;
+    
+
+}
+.btn button:hover{
+    font-size: 22px;
+
+}
+.signup{
+    margin-top:20px ;
+    font-size: 18px;
+   
+}
+span{
+    margin-top: 30px;
+    color: rgb(10, 167, 230);
+    font-size: 18px;
+   
+}
